@@ -1,4 +1,4 @@
-# test[winch_bodies_fusion_v8_8_22.py](https://github.com/user-attachments/files/34947236/winch_bodies_fusion_v8_8_22.py)
+[winch_bodies_fusion_v8_8_22.py](https://github.com/user-attachments/files/34947236/winch_bodies_fusion_v8_8_22.py)
 """winch v8.8 (22/56) rotating bodies -> Autodesk Fusion (Python script)
 
 v8 changes (2026-11-12) against the v5.2 set that locked up in the first run:
